@@ -3,4 +3,4 @@ grep -r "millionth"  "data.txt"
 4CFALtqS87jk27qwqGhBM9plV
 
 Level 8 -> Level 9
-
+sort data.txt | uniq -c | grep 1

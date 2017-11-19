@@ -1,4 +1,4 @@
--VIM Adventures
+- VIM Adventures
 https://vim-adventures.com/
 
 

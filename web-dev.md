@@ -1,4 +1,4 @@
-##General
+## General
 
 - w3schools
 
@@ -17,7 +17,7 @@
 - EJ Media youtube channel
 
 
-##JavaScript
+## JavaScript
 
 - Build 30 things in 30 days with 30 tutorials
 https://javascript30.com/
@@ -32,7 +32,7 @@ http://eloquentjavascript.net/
 http://jstherightway.org/
 
 
-##HTML & CSS
+## HTML & CSS
 
 - HTML & CSS: Design and Build by John Ducket
 http://wtf.tw/ref/duckett.pdf
